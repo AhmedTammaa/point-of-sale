@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock Care D", "Stock Care D\Stock Care D.csproj", "{D707E255-67B8-4164-9216-442F68786D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D707E255-67B8-4164-9216-442F68786D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D707E255-67B8-4164-9216-442F68786D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D707E255-67B8-4164-9216-442F68786D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D707E255-67B8-4164-9216-442F68786D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4204321D-7562-4D39-B637-BCA15A153486}
+	EndGlobalSection
+EndGlobal
